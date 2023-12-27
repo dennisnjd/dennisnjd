@@ -3,23 +3,17 @@
 
 # Hey there! 👋 I'm Dennis NJ
 
-🚀 Self-learning Passionate Web Developer 💻
+* 🚀 Self-learning Passionate Web Developer 💻
+  
+* 🌍  I'm based in Kannur , Kerala
 
-🌟 Crafting Innovative Web Solutions
+*   ✉️  You can contact me at [dennisnjd@gmail.com](mailto:dennisnjd@gmail.com)
 
-💼 Open to Exciting Opportunities
+*  💼 Open to Exciting Opportunities
 
-👨‍💻 Building Personal Projects with ❤️
+  <a href="https://www.github.com/dennisnjd" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/dennisnjd?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
-🌐 Exploring the Digital Universe
-
-🎯 Turning Ideas into Reality
-
-🔍 Searching for the Next Challenge
-
-🌠 Dreaming of a Bright Tech Future
-
-Connect with me and let's create amazing things together! 🌟
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisnjd&show_icons=true&locale=en&layout=compact" alt="dennisnjd" /></p>
 
@@ -31,9 +25,8 @@ Connect with me and let's create amazing things together! 🌟
 ### Languages & Tools
 
 - 💻 JavaScript
-- 🐍 Python
 - ⚙️ C
-- ⚛️ React
+- ⚛️ ReactJS
 - 📱 React Native
 - 🚀 Node.js
 - 🌐 HTML
