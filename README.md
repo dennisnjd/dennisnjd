@@ -3,7 +3,7 @@
 
 # Hey there! 👋 I'm Dennis NJ
 
-* 🚀 Self-learning Passionate Web Developer 💻
+* 🚀 Self-learning Passionate Web/App Developer 💻
   
 * 🌍  I'm based in Kannur , Kerala
 
